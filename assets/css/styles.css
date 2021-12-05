@@ -1,0 +1,42 @@
+.body {
+  background-image: url("assets/bg-main-desktop.png");
+  
+}
+
+.nav {
+  height: fit-content;
+  background-color: blue;
+}
+
+.header {
+  background-color: blueviolet;
+
+}
+
+.paragrah {
+  background-color: brown;
+}
+
+.bgsq {
+  background-color: cadetblue;
+}
+
+.phone {
+  background-color: coral;
+}
+
+.buydiv {
+  background-color: darkcyan;
+}
+
+.iosbtn {
+  background-color: rgb(54, 102, 206);
+}
+
+.andbtn {
+  background-color: rgb(187, 144, 26);
+}
+
+.footer {
+  background-color: deeppink;
+}
